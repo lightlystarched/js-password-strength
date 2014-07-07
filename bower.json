@@ -1,0 +1,17 @@
+{
+  "name": "JS Password Strength Check",
+  "version": "0.0.0",
+  "authors": [
+    "Josh Martin <jmartin@outbrain.com>"
+  ],
+  "description": "Library for including simple password strength checks and feedbacks to password input fields",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
